@@ -48,7 +48,7 @@ First to win 2 rounds wins the match.
 
 ## Live Demo
 
-[Play The Game Here](https://rock-paper-scissorsby-emanuil--emopetkov.replit.app))
+[Play The Game Here](https://rock-paper-scissorsby-emanuil--emopetkov.replit.app)
 
 
 ## Author
